@@ -1,4 +1,4 @@
-Python Zen
+Python Zen - by the designer
 Beautiful is better than ugly.
 Explicit is better than implicit.
 Simple is better than complex.
