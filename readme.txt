@@ -1,3 +1,4 @@
+Creating a new branch is quick.
 Python Zen - by the designer 20191113
 Beautiful is better than ugly.
 Explicit is better than implicit.
