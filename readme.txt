@@ -1,4 +1,4 @@
-Creating a new branch is quick AND simple.
+Creating a new branch is quick AND simple. Now-fixed.
 Dev test - no fast forward
 Python Zen - by the designer 20191113
 Beautiful is better than ugly.
