@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+Bug Test !!! - fixed
+>>>>>>> f3ae38f... fix bug 101
 Creating a new branch is quick AND simple.
 Python Zen - by the designer 20191113
 Beautiful is better than ugly.
